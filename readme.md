@@ -2,7 +2,8 @@ Este es un proyecto imporatante
 ===============================
 
 #Descripción
-Esta es la descripción del proyecto
+Esta es la descripción del proyecto.
+Acá se publican las instrucciones para los nuevos desarrolladores.
 
 #TO DO:
 - tarea 1
