@@ -7,7 +7,7 @@ Acá se publican las instrucciones para los nuevos desarrolladores.
 
 #TO DO:
 - tarea 1
-- tarea 2 (importante)
+- tarea 2 (importante) hecho
 - tarea 3
 - tarea 4
 - tarea 5
