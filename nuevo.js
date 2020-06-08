@@ -1,0 +1,1 @@
+Archivo js para agregar comportamiento dinámico
