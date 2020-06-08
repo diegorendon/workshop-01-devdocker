@@ -13,3 +13,4 @@ Acá se publican las instrucciones para los nuevos desarrolladores.
 - tarea 5
 - tarea 6 (opcional)
 - tarea 7
+- tarea 8 (agregada por dev1)
