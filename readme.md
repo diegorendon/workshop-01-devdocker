@@ -12,3 +12,4 @@ Acá se publican las instrucciones para los nuevos desarrolladores.
 - tarea 4
 - tarea 5
 - tarea 6 (opcional)
+- tarea 7
